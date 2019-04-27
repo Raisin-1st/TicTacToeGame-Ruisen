@@ -1,0 +1,50 @@
+Choose 2 player or AI
+
+If two player (
+
+repeats (
+prompt input from player 1
+display board
+prompt input from player 2
+display board
+
+if repeated more than 3 times (
+scan for winner
+if winner detected (declare winner and terminate program
+)
+
+)
+
+if AI (
+
+repeats (
+prompt input from player 1
+display board
+AI moves
+display board
+
+if repeated more than 3 times (
+scan for winner
+if winner detected (declare winner and terminate program
+)
+
+)
+
+AI {
+
+check board for possible victory
+if (impossible victory) {
+play randomly
+}
+
+if (possible victory) {
+check for winning moves
+move to win OR move block
+}
+
+
+
+
+
+
+}
